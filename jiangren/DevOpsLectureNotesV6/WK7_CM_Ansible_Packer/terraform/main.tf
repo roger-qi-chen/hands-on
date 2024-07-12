@@ -16,7 +16,7 @@ provider "aws" {
 
 variable "key_name" {
   type    = string
-  default = "aws_ca_central"
+  default = "aws_central"
 }
 
 resource "aws_security_group" "jr_ansible" {
