@@ -1,0 +1,7 @@
+web:
+  hosts:
+	  ec2-3-99-180-43.ca-central-1.compute.amazonaws.com: 22
+		ec2-3-99-140-166.ca-central-1.compute.amazonaws.com: 22
+redis:
+	hosts:
+		ec2-3-97-11-16.ca-central-1.compute.amazonaws.com: 22
