@@ -1,8 +1,0 @@
-[web]
-# input your web hosts here
-ec2-3-99-180-43.ca-central-1.compute.amazonaws.com
-ec2-3-99-140-166.ca-central-1.compute.amazonaws.com
-
-[redis]
-# input your redis hosts here
-ec2-3-97-11-16.ca-central-1.compute.amazonaws.com
